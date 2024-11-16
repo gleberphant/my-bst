@@ -1,0 +1,27 @@
+plugins {
+    
+    id 'java'
+    id 'application'
+}
+
+group 'bst'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.13.2'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_23
+    targetCompatibility = JavaVersion.VERSION_23
+}
+
+application {
+    mainClass = 'main.App'
+}
+
+sourceSets.main.java.srcDirs = ['src/java']
