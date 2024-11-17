@@ -79,12 +79,6 @@ https://www.instagram.com/handersongleber/
 
 <br>
 
-## 📝 Licença
-
-Esse projeto está sob licença livre. 
-
-<br>
-
 ## 🤝 Apoie o autor
 
 Se você estiver satisfeito com esse projeto ou quiser me encorajar a continuar criando coisas legais, considere me apoiar:
@@ -99,7 +93,14 @@ Se você estiver satisfeito com esse projeto ou quiser me encorajar a continuar 
 [![Mercado Pago Badge](https://img.shields.io/badge/Mercado%20Pago-00B1EA?logo=mercadopago&logoColor=fff&style=flat)]("http://link.mercadopago.com.br/handersongleber") 
 [![PayPal Badge](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff&style=flat)]("https://www.paypal.com/donate/?business=GZCPGEVTCZ8VW&no_recurring=0&currency_code=USD")
 [![Liberapay Badge](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=000&style=flat)](https://liberapay.com/gleberphant/donate)
-<br><br>
-<a target="_blank" href="https://icons8.com/icon/FBycNmdwUQz1/java">Java</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<br>
+<br>
 </div>
+
+## 📝 Licença
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+<br> <a target="_blank" href="https://icons8.com/icon/FBycNmdwUQz1/java">Java</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 
