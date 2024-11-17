@@ -12,13 +12,14 @@ public class App {
     public static void main(String args[]){
 
         Random random = new Random();
-        
+        int number;
 
         NodeTree tree = new NodeTree();
 
         for(int i = 0 ; i < 10; i++){
-            System.out.printf("adicionando %d : ", i);
-            tree.addNode( new Node(random.nextInt(i, (i+1)*2)) );
+            number = random.nextInt(0, 50);
+            System.out.printf("N %d : ", number);
+            tree.addNode( new Node(number) );
 
         }
         
